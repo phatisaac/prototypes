@@ -1,3 +1,6 @@
 dependencies are
 pandas 
+
 streamlit
+matplotlib.pyplot
+seaborn
